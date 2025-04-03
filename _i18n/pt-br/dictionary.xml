@@ -715,7 +715,6 @@
   <block id="7c90d436f62a080a98e02874957865e0" category="inline-link-macro">estes procedimentos</block>
   <block id="41bdd90cead20f2dddf0647e2f48fc13" category="list-text">*Instalar na nuvem pública com o Cloud Volumes ONTAP backend*: Use <block ref="cdbba4f6294205e74dc04d0ee99d1d1f" category="inline-link-macro-rx"></block> para instalar o Astra Control Center no Amazon Web Services (AWS), no Google Cloud Platform (GCP) ou no Microsoft Azure com um back-end de storage do Cloud Volumes ONTAP.</block>
   <block id="201e09e85ad81db8a19ef9f20c05d1a5" category="inline-link">este vídeo</block>
-  <block id="259f3be9b6c8eefb44e844c2b70333dc" category="paragraph">Para uma demonstração do processo de instalação do Astra Control Center,<block ref="cbbdec23221803dc148346abe5a297c0" category="inline-link-rx"></block> consulte .</block>
   <block id="44e141a783b8346b1ee5c52bcf894d19" category="list-text"><block ref="689b20f2e0a9cb0a12bc48475b3f81ee" category="inline-link-macro-rx"></block>.</block>
   <block id="da34d7b3ad82100be38c4bc4758b9a28" category="inline-link-macro">restrições de segurança do pod</block>
   <block id="4e054390471dfb4ee3f141d1a5b6a77e" category="list-text">Se você configurou ou deseja configurar políticas de segurança de pod no seu ambiente, familiarize-se com as políticas de segurança de pod e como elas afetam a instalação do Astra Control Center. <block ref="d77e6e5f0b1b5e8f15429de2d058f94b" category="inline-link-macro-rx"></block>Consulte a .</block>
@@ -3092,4 +3091,5 @@
   <block id="f20e69549fc23f9df431f9511f177e5e" category="sidebar">Gerencie sua conta</block>
   <block id="1eda8b1f4dfa35b119f2a579170d4546" category="sidebar">Gerenciar credenciais</block>
   <block id="0adc618a9ad28f57db9328d47cf45165" category="sidebar">Monitore a infraestrutura com o Cloud Insights e o Fluentd</block>
+  <block id="285c7fb54a928cf8e9ca78a83740ce60" category="paragraph">Para uma demonstração do processo de instalação do Astra Control Center,<block ref="d97427b76746d487a682c110ed41c817" category="inline-link-rx"></block> consulte .</block>
 </blocks>
